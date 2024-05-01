@@ -2,17 +2,17 @@
 
 Welcome to my GitHub portfolio!
 
-I am a passionate cybersecurity and cloud engineering student interested in system administration. This repository is my portfolio to showcase my projects, skills, and achievements in the field.
+I am a passionate cybersecurity and cloud engineering student interested in system administration, cloud engineering and cybersecurity. This repository is my portfolio, where I showcase my projects, skills, and achievements in the field.
 
 ## Projects
 
-### Project Name 1
-Description: Brief description of the project, highlighting its purpose, technologies used, and your role.
+### Cloning Physical Windows System for Virtualization
+Description: Cloning an existing physical Windows 10 install to a non-vendor specific VM solution (Proxmox, VMWare, VirtualBox)
 Repository: [Link to GitHub repository](link)
 Demo: [Link to live demo (if applicable)](link)
 
-### Project Name 2
-Description: Brief description of the project, highlighting its purpose, technologies used, and your role.
+### Self-Hosted Video Game Server
+Description: Self-hosting a "7 Days to Die" video game server for friends and family
 Repository: [Link to GitHub repository](link)
 Demo: [Link to live demo (if applicable)](link)
 
@@ -35,14 +35,15 @@ Demo: [Link to live demo (if applicable)](link)
 - AZ-900 Certificate
 - Google Project Management Certificate
 - Google Cybersecurity Certificate
-- Splunk for Security Analytics and Monitoring Certificate 
+- Splunk for Security Analytics and Monitoring Certificate
+- ICS2 CC Certification 
 
 ## Contact
 
-- Email: [Your Email Address](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- Personal Website/Blog: [Your Website/Blog](link)
+- Email: [carterbryant at gmail.com](mailto:carterbryant@gmail.com)
+- LinkedIn: Carter Bryant [link](https://www.linkedin.com/in/carterbryant1/))
+- Twitter: CB ([link](https://twitter.com/carterbryantca))
+  
 
 Feel free to reach out to discuss collaborations and opportunities or to connect!
 
